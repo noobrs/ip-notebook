@@ -1,0 +1,12 @@
+Image,BER,Host PSNR (dB),WM PSNR (dB),Extracted File
+watermarked,0.453125,52.8935423133605,7.6103110549681645,extracted_wm_00_watermarked.png
+jpg_watermarked,0.0400390625,43.682385468267725,19.901681446813868,extracted_wm_01_jpg_watermarked.png
+ig_watermarked,0.0380859375,47.380897366785334,19.92399361112051,extracted_wm_02_ig_watermarked.png
+ss_watermarked,0.1494140625,29.568320774816797,12.667439961218165,extracted_wm_03_ss_watermarked.png
+ss_new_watermarked,0.0908203125,34.10180141904287,14.678304219030665,extracted_wm_04_ss_new_watermarked.png
+wa_marked,0.8134765625,12.194745564245508,1.8529868362181645,extracted_wm_05_wa_marked.png
+wa_ss_watermarked,0.0537109375,41.23284628369741,16.43878509976797,extracted_wm_06_wa_ss_watermarked.png
+watermarked_256,0.07421875,34.75937416531973,16.42635490872793,extracted_wm_07_watermarked_256.png
+watermarked_1080,0.037109375,44.358166956686304,21.20451309659414,extracted_wm_08_watermarked_1080.png
+light_noise_watermarked,0.037109375,27.114938282751368,21.994636082433985,extracted_wm_09_light_noise_watermarked.png
+noise_watermarked,0.6171875,17.86230804898672,3.620244526647852,extracted_wm_10_noise_watermarked.png
