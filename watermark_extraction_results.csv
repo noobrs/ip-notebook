@@ -1,12 +1,12 @@
 Image,BER,Host PSNR (dB),WM PSNR (dB),Extracted File
-watermarked,0.453125,52.8935423133605,7.6103110549681645,extracted_wm_00_watermarked.png
-jpg_watermarked,0.0400390625,43.682385468267725,19.901681446813868,extracted_wm_01_jpg_watermarked.png
-ig_watermarked,0.0380859375,47.380897366785334,19.92399361112051,extracted_wm_02_ig_watermarked.png
-ss_watermarked,0.1494140625,29.568320774816797,12.667439961218165,extracted_wm_03_ss_watermarked.png
-ss_new_watermarked,0.0908203125,34.10180141904287,14.678304219030665,extracted_wm_04_ss_new_watermarked.png
-wa_marked,0.8134765625,12.194745564245508,1.8529868362181645,extracted_wm_05_wa_marked.png
-wa_ss_watermarked,0.0537109375,41.23284628369741,16.43878509976797,extracted_wm_06_wa_ss_watermarked.png
-watermarked_256,0.07421875,34.75937416531973,16.42635490872793,extracted_wm_07_watermarked_256.png
-watermarked_1080,0.037109375,44.358166956686304,21.20451309659414,extracted_wm_08_watermarked_1080.png
-light_noise_watermarked,0.037109375,27.114938282751368,21.994636082433985,extracted_wm_09_light_noise_watermarked.png
-noise_watermarked,0.6171875,17.86230804898672,3.620244526647852,extracted_wm_10_noise_watermarked.png
+watermarked,0.58203125,52.91901400067739,5.234998249792383,extracted_wm_00_watermarked.png
+jpg_watermarked,0.3916015625,42.726280712866114,7.198590779089258,extracted_wm_01_jpg_watermarked.png
+ig_watermarked,0.3896484375,44.06243469693594,7.2029013869994145,extracted_wm_02_ig_watermarked.png
+ss_watermarked,0.3349609375,29.74402191617422,8.01836159207754,extracted_wm_03_ss_watermarked.png
+ss_new_watermarked,0.345703125,34.21306564786367,7.873746418737696,extracted_wm_04_ss_new_watermarked.png
+wa_marked,0.64453125,12.198621296667383,2.7139563796751958,extracted_wm_05_wa_marked.png
+wa_ss_watermarked,0.3505859375,40.883156323217676,7.749051594518946,extracted_wm_06_wa_ss_watermarked.png
+watermarked_256,0.42578125,34.74692490079336,6.716866993688868,extracted_wm_07_watermarked_256.png
+watermarked_1080,0.3896484375,43.016611122869776,7.2933554885619145,extracted_wm_08_watermarked_1080.png
+light_noise_watermarked,0.3583984375,27.073283695959375,7.900186085485743,extracted_wm_09_light_noise_watermarked.png
+noise_watermarked,0.4560546875,17.86146690823965,5.340428852819727,extracted_wm_10_noise_watermarked.png
